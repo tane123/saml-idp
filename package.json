@@ -1,8 +1,8 @@
 {
-  "name": "@tane123/saml-idp",
+  "name": "saml-idp",
   "description": "Test Identity Provider (IdP) for SAML 2.0 Web Browser SSO Profile",
   "type": "commonjs",
-  "version": "1.3",
+  "version": "1.4.0",
   "private": false,
   "author": "Karl McGuinness",
   "keywords": [
