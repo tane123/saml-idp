@@ -217,7 +217,7 @@ function processArgs(args, options) {
       },
       audience: {
         description: 'SP Audience URI',
-        required: true,
+        required: false,
         alias: 'aud'
       },
       serviceProviderId: {
